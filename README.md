@@ -1,3 +1,5 @@
+![logo](./banner.png)
+
 # 💫 About Me:
 
 #### Hey there!👋 I'm a third-year BTech CSE student, passionate about AI/ML and full-stack web development. I'm an AI/ML enthusiast, currently exploring the MERN stack. Always eager to learn and build innovative solutions!
