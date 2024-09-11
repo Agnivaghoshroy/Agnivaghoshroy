@@ -1,4 +1,4 @@
-![logo](./banner.jpeg)
+![logo](./banner.gif)
 
 # 💫 About Me:
 
